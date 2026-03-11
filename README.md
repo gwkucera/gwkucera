@@ -2,7 +2,7 @@
 
 **VP / Head of Product | AI-Augmented Product Systems | B2B SaaS | Consumer | Platform Strategy**
 
-[LinkedIn](https://www.linkedin.com/in/georgewkucera/) • [Email](mailto:gwkucera@gmail.com)
+[Email](mailto:gwkucera@gmail.com)
 
 ---
 
