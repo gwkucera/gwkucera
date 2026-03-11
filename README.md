@@ -1,71 +1,85 @@
-George Kucera — Product Executive
+# George Kucera
 
-VP / Head of Product | AI-augmented product systems | B2B SaaS | Consumer | Platform strategy
+Product & Platform Executive | AI-Enabled Product Strategy | Builder
 
-LinkedIn | Email
+---
 
-Current Projects
-AI Executive Research Analyst
+## About
 
-A corpus-based AI research assistant built with a retrieval-augmented generation (RAG) pipeline.
+I am a Product & Platform leader with 15+ years building and scaling software products across startups, growth companies, and global enterprises.
 
-The system ingests research documents, retrieves relevant evidence, and generates structured research briefs grounded in source material.
+My focus is on building **AI-enabled products**, designing **platform strategies**, and leading teams that deliver measurable business outcomes.
 
-Stack
+I am currently exploring and building systems around:
 
-Python • OpenAI • ChromaDB • Semantic search • Retrieval pipelines
+- AI-enabled product management
+- Agentic workflows and AI tooling
+- Platform monetization and pricing strategy
+- Rapid product prototyping
 
-Repository:
-ai-executive-research-analyst
+---
 
-AI Job Search Assistant (in progress)
+## Current Focus
 
-End-to-end system that matches candidates to roles using document parsing, semantic search, and LLM synthesis.
+- Building AI agents and workflows
+- Exploring agentic product architectures
+- Developing rapid prototypes using modern AI coding tools
+- Writing about AI agency, alignment, and product strategy
 
-Stack: FastAPI + OpenAI + vector search
+---
 
-Background
+## Selected Experience
 
-I build and scale software products through difficult transitions:
+### Product Leadership
+- Led product teams during high-growth phases
+- Scaled product organizations across multiple companies
+- Delivered measurable revenue and adoption growth
 
-finding product-market fit
+### Platform Strategy
+- Designed platform ecosystems and monetization strategies
+- Built partner and developer platforms
+- Enabled multi-product portfolios
 
-fixing broken monetization
+### AI-Enabled Systems
+- Building AI-assisted product development workflows
+- Prototyping agent-based software tools
+- Experimenting with retrieval systems and knowledge agents
 
-post-acquisition integration
+---
 
-redesigning systems when AI begins making decisions at scale
+## Projects
 
-15+ years across startups, growth companies, and enterprises including PagerDuty, Salesforce, MaxRewards, and IgniteTech.
+### AI Retrieval Systems
+Experiments building retrieval systems that connect domain knowledge with AI agents.
 
-Selected Outcomes
+### Product Strategy Frameworks
+Models and tools for scaling product teams and organizations.
 
-Scaled PagerDuty PM org 3 → 8 during hypergrowth, company surpassed $100M ARR
+### AI Product Experiments
+Rapid prototypes exploring the intersection of AI agents and product workflows.
 
-Drove 37% subscription growth and 28% price increase without retention loss
+---
 
-Built a $15M+ ROI investment plan in 90 days across a 40+ product portfolio
+## Writing
 
-3 founder exits, including XML Database Tools acquired in 16 months
+I write about:
 
-Writing
+- AI agency
+- product strategy
+- technology shifts and economic impact
+- building software organizations
 
-Essay series: AI Alignment and the Structural Problem
+---
 
-Why AI Alignment Is a Design Problem
+## Connect
 
-Good Story. Bigger Risk.
+[LinkedIn](https://www.linkedin.com/in/georgewkucera)
 
-What a True Agent Would Actually Require
+[GitHub](https://github.com/gwkucera)
 
-These essays explore the structural challenges of accountability when AI systems begin making operational decisions.
+---
 
-Background
+## Philosophy
 
-MBA — Kellogg School of Management
-B.S. Computer Science — UC Davis
-B.A. Economics — UC Davis
-
-Technical Stack
-
-Python • OpenAI API • Vector databases • FastAPI • RAG pipelines
+Technology shifts change how products are built and how organizations operate.  
+My focus is understanding those shifts early and translating them into practical systems.
