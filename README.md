@@ -1,85 +1,83 @@
-# George Kucera
+# George Kucera — Product Executive
 
-Product & Platform Executive | AI-Enabled Product Strategy | Builder
+**VP / Head of Product | AI-Augmented Product Systems | B2B SaaS | Consumer | Platform Strategy**
 
----
-
-## About
-
-I am a Product & Platform leader with 15+ years building and scaling software products across startups, growth companies, and global enterprises.
-
-My focus is on building **AI-enabled products**, designing **platform strategies**, and leading teams that deliver measurable business outcomes.
-
-I am currently exploring and building systems around:
-
-- AI-enabled product management
-- Agentic workflows and AI tooling
-- Platform monetization and pricing strategy
-- Rapid product prototyping
+[LinkedIn](https://www.linkedin.com/in/georgewkucera/) • [Email](mailto:gwkucera@gmail.com)
 
 ---
 
-## Current Focus
+## Current Projects
 
-- Building AI agents and workflows
-- Exploring agentic product architectures
-- Developing rapid prototypes using modern AI coding tools
-- Writing about AI agency, alignment, and product strategy
+### AI Executive Research Analyst
 
----
+A corpus-based AI research assistant built with a **retrieval-augmented generation (RAG)** pipeline.
 
-## Selected Experience
+The system ingests research documents, retrieves relevant evidence, and generates structured research briefs grounded in source material.
 
-### Product Leadership
-- Led product teams during high-growth phases
-- Scaled product organizations across multiple companies
-- Delivered measurable revenue and adoption growth
+**Stack**
 
-### Platform Strategy
-- Designed platform ecosystems and monetization strategies
-- Built partner and developer platforms
-- Enabled multi-product portfolios
+Python • OpenAI • ChromaDB • Semantic Search • Retrieval Pipelines
 
-### AI-Enabled Systems
-- Building AI-assisted product development workflows
-- Prototyping agent-based software tools
-- Experimenting with retrieval systems and knowledge agents
+**Repository**
+
+`ai-executive-research-analyst`
 
 ---
 
-## Projects
+### AI Job Search Assistant *(in progress)*
 
-### AI Retrieval Systems
-Experiments building retrieval systems that connect domain knowledge with AI agents.
+End-to-end system that matches candidates to roles using document parsing, semantic search, and LLM synthesis.
 
-### Product Strategy Frameworks
-Models and tools for scaling product teams and organizations.
+**Stack**
 
-### AI Product Experiments
-Rapid prototypes exploring the intersection of AI agents and product workflows.
+FastAPI • OpenAI • Vector Search
+
+---
+
+## Background
+
+I build and scale software products through difficult transitions, including:
+
+- Finding product-market fit  
+- Fixing broken monetization  
+- Post-acquisition integration  
+- Redesigning systems when AI begins making decisions at scale  
+
+15+ years across startups, growth companies, and enterprises including:
+
+**PagerDuty • Salesforce • MaxRewards • IgniteTech**
+
+---
+
+## Selected Outcomes
+
+- Scaled PagerDuty PM organization **3 → 8 during hypergrowth**, as the company surpassed **$100M ARR**
+- Drove **37% subscription growth** and a **28% price increase without retention loss**
+- Built a **$15M+ ROI investment plan in 90 days** across a 40+ product portfolio
+- **3 founder exits**, including **XML Database Tools acquired in 16 months**
 
 ---
 
 ## Writing
 
-I write about:
+### Essay Series: *AI Alignment and the Structural Problem*
 
-- AI agency
-- product strategy
-- technology shifts and economic impact
-- building software organizations
+- **Why AI Alignment Is a Design Problem**
+- **Good Story. Bigger Risk.**
+- **What a True Agent Would Actually Require**
 
----
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/georgewkucera)
-
-[GitHub](https://github.com/gwkucera)
+These essays explore the structural challenges of accountability when AI systems begin making operational decisions.
 
 ---
 
-## Philosophy
+## Education
 
-Technology shifts change how products are built and how organizations operate.  
-My focus is understanding those shifts early and translating them into practical systems.
+**MBA** — Kellogg School of Management  
+**B.S. Computer Science** — UC Davis  
+**B.A. Economics** — UC Davis
+
+---
+
+## Technical Stack
+
+Python • OpenAI API • Vector Databases • FastAPI • RAG Pipelines
