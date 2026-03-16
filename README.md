@@ -24,13 +24,7 @@ Python • OpenAI • ChromaDB • Semantic Search • Retrieval Pipelines
 
 ---
 
-### AI Job Search Assistant *(in progress)*
-
-End-to-end system that matches candidates to roles using document parsing, semantic search, and LLM synthesis.
-
-**Stack**
-
-FastAPI • OpenAI • Vector Search
+### RAG Research Assistant *(in progress)*
 
 ---
 
