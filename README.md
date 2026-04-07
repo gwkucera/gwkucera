@@ -1,77 +1,85 @@
 # George Kucera — Product Executive
 
-**VP / Head of Product | AI-Augmented Product Systems | B2B SaaS | Consumer | Platform Strategy**
+**VP / Head of Product | AI-Native Systems | B2B SaaS | 
+Consumer | Platform Strategy**
 
+[LinkedIn](https://www.linkedin.com/in/georgewkucera/) • 
 [Email](mailto:gwkucera@gmail.com)
 
 ---
 
-## Current Projects
+## What I'm Building
 
-### AI Executive Research Analyst
+I design and build AI-native systems end to end — not as 
+a side interest, but as a core part of how I work and how 
+I think about product.
 
-A corpus-based AI research assistant built with a **retrieval-augmented generation (RAG)** pipeline.
+Current project: a commercial-grade AI knowledge platform 
+with a multi-model orchestration pipeline, structured 
+evidence validation system, and human-in-the-loop review 
+architecture. Built with FastAPI, React, Postgres, Chroma, 
+and a three-model consensus pipeline (Perplexity Sonar, 
+Trinity Large, Kimi K2.5).
 
-The system ingests research documents, retrieves relevant evidence, and generates structured research briefs grounded in source material.
-
-**Stack**
-
-Python • OpenAI • ChromaDB • Semantic Search • Retrieval Pipelines
-
-**Repository**
-
-`ai-executive-research-analyst`
-
----
-
-### RAG Research Assistant *(in progress)*
+582 tests. Versioned records. Concurrent AI tagging across 
+800+ structured knowledge records. Designed for extensibility, 
+not demos.
 
 ---
 
 ## Background
 
-I build and scale software products through difficult transitions, including:
+I build and scale software products through difficult 
+transitions:
 
-- Finding product-market fit  
-- Fixing broken monetization  
-- Post-acquisition integration  
-- Redesigning systems when AI begins making decisions at scale  
+- Finding product-market fit
+- Fixing broken monetization
+- Post-acquisition integration
+- Redesigning systems when AI begins making decisions at scale
 
-15+ years across startups, growth companies, and enterprises including:
+15+ years across startups, growth companies, and enterprises:
 
-**PagerDuty • Salesforce • MaxRewards • IgniteTech**
+**PagerDuty • Salesforce • MaxRewards • IgniteTech • 
+Hustle • HP • Oracle**
 
 ---
 
 ## Selected Outcomes
 
-- Scaled PagerDuty PM organization **3 → 8 during hypergrowth**, as the company surpassed **$100M ARR**
-- Drove **37% subscription growth** and a **28% price increase without retention loss**
-- Built a **$15M+ ROI investment plan in 90 days** across a 40+ product portfolio
-- **3 founder exits**, including **XML Database Tools acquired in 16 months**
+- Scaled PagerDuty PM org 3 to 8 during hypergrowth, 
+  as the company surpassed $100M ARR
+- Drove 37% subscription growth and a 28% price increase 
+  without retention loss
+- Built a $15M+ ROI investment plan in 90 days across a 
+  40+ product portfolio
+- 3 founder exits, including XML Database Tools acquired 
+  in 16 months
 
 ---
 
 ## Writing
 
-### Essay Series: *AI Alignment and the Structural Problem*
+**Essay Series: AI Alignment and the Structural Problem**
 
-- **Why AI Alignment Is a Design Problem**
-- **Good Story. Bigger Risk.**
-- **What a True Agent Would Actually Require**
+- Why AI Alignment Is a Design Problem
+- Good Story. Bigger Risk.
+- What a True Agent Would Actually Require
 
-These essays explore the structural challenges of accountability when AI systems begin making operational decisions.
+These essays explore accountability and agency architecture 
+as AI systems move from tools to decision-makers.
+
+---
+
+## Technical Stack
+
+Python • FastAPI • React • PostgreSQL • ChromaDB  
+Multi-model AI orchestration • RAG pipelines  
+Perplexity Sonar • Trinity Large • Kimi K2.5 • Claude  
+OpenRouter • Docker • Concurrent batch processing
 
 ---
 
 ## Education
 
 **MBA** — Kellogg School of Management  
-**B.S. Computer Science** — UC Davis  
-**B.A. Economics** — UC Davis
-
----
-
-## Technical Stack
-
-Python • OpenAI API • Vector Databases • FastAPI • RAG Pipelines
+**B.S. Computer Science + B.A. Economics** — UC Davis
