@@ -20,9 +20,10 @@ evidence validation system, and human-in-the-loop review
 architecture. Built with FastAPI, React, Postgres, Chroma, 
 and a three-model consensus pipeline (Perplexity Sonar, 
 Trinity Large, Kimi K2.5).
+Mobile: React Native (Expo)
 
-582 tests. Versioned records. Concurrent AI tagging across 
-800+ structured knowledge records. Designed for extensibility, 
+1,200 tests. Versioned records. Concurrent AI tagging across 
+2,300+ structured knowledge records. Designed for extensibility, 
 not demos.
 
 ---
