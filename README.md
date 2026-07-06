@@ -45,8 +45,8 @@ I build and scale software products through difficult transitions:
 **Essay Series: AI Alignment and the Structural Problem**
 
 - Why AI Alignment Is a Design Problem
-- Good Story. Bigger Risk.
-- What a True Agent Would Actually Require
+- What True AI Agency Actually Requires
+- The Real AI Risk: Centralized Control
 
 These essays explore accountability and agency architecture as AI systems move from tools to decision-makers. Full essays at [georgekucera.ai](https://georgekucera.ai).
 
